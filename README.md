@@ -1,7 +1,8 @@
 # Menco_textui
 
 A simple, lightweight FiveM script that displays a customizable text-based UI for button prompts.
-
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![GitHub release downloads](https://img.shields.io/github/downloads/Menco-Scripts/Menco_textui/total)
 ![image](https://github.com/user-attachments/assets/785dcbd4-c4f6-4cdc-bd01-46cef24901c8)
 
 ---
